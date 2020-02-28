@@ -18,3 +18,4 @@ for i in {1..15}; do
 	done
 done
 echo done
+echo "run ./gnl_dual.sh"
